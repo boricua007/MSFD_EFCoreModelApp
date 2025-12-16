@@ -97,28 +97,6 @@ The application creates an HR database with departments and employees. After run
 - Engineering Department
 - Two sample employees assigned to different departments
 
-## Common EF Core Commands
-
-```bash
-# Create a new migration
-dotnet ef migrations add MigrationName
-
-# Apply migrations to database
-dotnet ef database update
-
-# Remove last unapplied migration
-dotnet ef migrations remove
-
-# List all migrations
-dotnet ef migrations list
-
-# Generate SQL script
-dotnet ef migrations script
-
-# Drop database
-dotnet ef database drop
-```
-
 ## Key Concepts Demonstrated
 
 - ✅ Setting up Entity Framework Core with SQLite
