@@ -13,7 +13,7 @@ This console application demonstrates Entity Framework Core fundamentals using S
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <MSFD_EFCoreModelApp>
    cd MSFD_EFCoreModelApp
    ```
 
