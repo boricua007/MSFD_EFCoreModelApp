@@ -9,11 +9,6 @@ This console application demonstrates Entity Framework Core fundamentals using S
 - SQLite Database Provider
 - C# 12
 
-## Prerequisites
-- .NET 9 SDK
-- Visual Studio Code (or any C# IDE)
-- EF Core CLI Tools
-
 ## Getting Started
 
 1. **Clone the repository**
