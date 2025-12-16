@@ -3,17 +3,6 @@
 ## Overview
 This console application demonstrates Entity Framework Core fundamentals using SQLite to manage HR data. The project implements a simple HR management system with employees and departments, showcasing Code-First migrations, entity relationships, and data seeding.
 
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Database Models](#database-models)
-- [Key Features](#key-features)
-- [Usage](#usage)
-- [Common EF Core Commands](#common-ef-core-commands)
-- [Learning Outcomes](#learning-outcomes)
-
 ## Technologies Used
 - .NET 9.0
 - Entity Framework Core 9.0
